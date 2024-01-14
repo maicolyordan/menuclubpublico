@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="5nacional.mx" tvg-name="⭐️movie fe⭐️" tvg-logo="http://imgfz.com/i/iznX5FU.jpeg" group-title="⭐️Cristiana⭐️",⭐️Movie Fe
-https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-id="5nacional.mx" tvg-name="⭐️abn⭐" tvg-logo="http://imgfz.com/i/iznX5FU.jpeg" group-title="⭐️Cristiana⭐️",⭐️ABN
 https://s2.abntelevision.com/avivamientohd/avivamientohd/chunks.m3u8
 #EXTINF:-1 tvg-id="5nacional.mx" tvg-name="⭐️cdm tv⭐" tvg-logo="http://imgfz.com/i/iznX5FU.jpeg" group-title="⭐️Cristiana⭐️",⭐️CDM TV
